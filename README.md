@@ -27,8 +27,9 @@ Provide instructions!!!
 
 ## Contributing
 
-#Instructions on how to contribute to the project.
-#Comming Soon!
+##Instructions on how to contribute to the project.
+
+##Comming Soon!
 
 ## License
 
